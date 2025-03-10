@@ -3701,6 +3701,13 @@ Upwind 27: 267° heading.</description>
 					<coordinates>25.96731444683422,44.92196549575166,0</coordinates>
 				</Point>
 			</Placemark>
+			<Style id="customIconStyle">
+			    <IconStyle>
+			        <Icon>
+			            <href>https://i.imgur.com/BdrvcET.png</href>
+			        </Icon>
+			    </IconStyle>
+			</Style>
 			<Placemark id="53946016EF00004C">
 				<name>INCAS</name>
 				<visibility>0</visibility>
@@ -3715,7 +3722,7 @@ Upwind 27: 267° heading.</description>
 					<range>252.893285581308</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#__managed_style_117870354B36B7212B09</styleUrl>
+				<styleUrl>#customIconStyle</styleUrl>
 				<Point>
 					<coordinates>25.96561123482469,44.92106685719883,0</coordinates>
 				</Point>
